@@ -1,0 +1,4 @@
+{
+    "project": "YOUR_PROJECT_ID",
+    "storage_bucket": "your_dataproc_temp_bucket"
+}
